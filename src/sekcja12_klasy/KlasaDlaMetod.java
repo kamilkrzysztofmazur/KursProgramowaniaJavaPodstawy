@@ -5,6 +5,7 @@ public class KlasaDlaMetod {
     //  }
 
     void metodaKtoraNicNieZwraca () {
+
         System.out.println("Wartość wypisana z metody");
     }
     void metodaKtoraPrzyjmujeArgument(int liczba, char pojedynczyZnak) {

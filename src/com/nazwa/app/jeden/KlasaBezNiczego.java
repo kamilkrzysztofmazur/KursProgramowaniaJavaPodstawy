@@ -7,7 +7,7 @@ public class KlasaBezNiczego {
         obiekt.poleBezNiczego = 203;
         obiekt.poleDziedziczenie = 204;
         obiekt.metodaPubliczna();
-        obiekt.poleBezNiczego();
+        obiekt.metodaBezNiczego();
         obiekt.metodaProtected();
     }
 }
